@@ -48,7 +48,7 @@ skills:
       - name: Rhino8
         description: ''
         percent: 80
-        icon: rhinoceros
+        icon: cube
         icon_pack: fas
       - name: Keyshot
         description: ''
