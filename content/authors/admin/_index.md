@@ -1,67 +1,61 @@
 ---
 # Display name
-title: 吳健雄
+title: Yibin Xu 许熠彬
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yibin Xu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yibin
+last_name: Xu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📘
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student of Harbin Engineering University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Harbin Engineering University
+    url: https://www.hrbeu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Industrial Design, Human-Computer Interaction.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Industrial Design
+  - Human-Computer Interaction
+  
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BEng in Industrial Design
+      institution: Harbin Engineering University
+      year: 2025
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Rhino8
         description: ''
         percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
+        icon: rhinoceros
+        icon_pack: fas
+      - name: Keyshot
         description: ''
         percent: 100
-        icon: chart-line
+        icon: camera-retro
         icon_pack: fas
-      - name: SQL
+      - name: SPSS
         description: ''
         percent: 40
         icon: database
@@ -70,20 +64,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Painting
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 90
+        icon: paint-brush
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Reading
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: book
         icon_pack: fas
 
 # Social/Academic Networking
@@ -96,19 +90,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/yibinx
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yibin Xu is an undergraduate student in Industrial Design at Harbin Engineering University. His research interests encompass industrial design and human-computer interaction. He is actively engaged in exploring innovative approaches in these fields as part of his academic journey
 {style="text-align: justify;"}
