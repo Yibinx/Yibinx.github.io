@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Yibin Xu is an undergraduate student in Industrial Design at Harbin Engineering University. His research interests encompass industrial design and human-computer interaction. He is actively engaged in exploring innovative approaches in these fields as part of his academic journey
+Yibin Xu is an undergraduate student in Industrial Design at Harbin Engineering University. Her research interests encompass industrial design and human-computer interaction. She is actively engaged in exploring innovative approaches in these fields as part of her academic journey.
 {style="text-align: justify;"}
